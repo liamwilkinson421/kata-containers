@@ -339,7 +339,7 @@ languages:
   golang:
     description: "Google's 'go' language"
     notes: "'version' is the default minimum version used by this project."
-    version: "1.19.4"
+    version: "1.19.3"
     meta:
       description: |
         'newest-version' is the latest version known to work when
